@@ -1,4 +1,4 @@
-Hi 👋 I'm is Nabeel M S
+Hi 👋 I'm Nabeel M S
 ===========================
 
 Full Stack Web Developer
