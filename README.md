@@ -5,7 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in Kochi
-* ✉️  You can contact me at [nabeel.ms78@gmail.com](mailto:nabeelms097@gmail.com)
+* ✉️  You can contact me at [nabeelms097@gmail.com](mailto:nabeelms097@gmail.com)
 * 🧠  I'm learning Mern Stack web development
 
 <a href="https://www.github.com/NabeelMS01" target="_blank" rel="noreferrer"><img
